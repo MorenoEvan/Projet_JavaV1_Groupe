@@ -43,12 +43,20 @@ public class FrmInscription extends JFrame {
 
 
 
+
+
+
+
         btnValider.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                FrmMenu frmMenu = new FrmMenu();
-                frmMenu.setVisible(true);
-                dispose();
+                FrmMenu frmMe= new FrmMenu();
+                frmMe.setVisible(true);
+
+
+
+
+               
 
             }
         });
@@ -71,4 +79,15 @@ public class FrmInscription extends JFrame {
             }
         });
     }
+    public boolean estEtudiant() {
+        return etudiantCheckBox.isSelected();
+    }
+
+    public boolean estProfesseur() {
+        return professeurCheckBox.isSelected();
+    }
+    public static void main(String[] args) {
+        new FrmInscription().setVisible(true);
+    }
+
 }

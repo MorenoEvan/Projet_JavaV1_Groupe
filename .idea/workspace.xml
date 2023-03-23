@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="918e7f52-87dc-4e50-8a75-2103761febf0" name="Changes" comment="Ok">
-      <change afterPath="$PROJECT_DIR$/src/Vues/FrmConnecte.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vues/FrmConnecte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmEtudiant.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmEtudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmProfesseur.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmProfesseur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vues/FrmInscription.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmInscription.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmConnecte.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmConnecte.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Vues/FrmInscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmInscription.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Vues/FrmMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmMenu.java" afterDir="false" />
     </list>
@@ -67,7 +70,7 @@
       <updated>1679561139488</updated>
       <workItem from="1679561141375" duration="2155000" />
       <workItem from="1679580557474" duration="3967000" />
-      <workItem from="1679602135799" duration="2129000" />
+      <workItem from="1679602135799" duration="7455000" />
     </task>
     <task id="LOCAL-00001" summary="Ok">
       <created>1679561483027</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679584537758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ok">
+      <created>1679604354761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679604354761</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

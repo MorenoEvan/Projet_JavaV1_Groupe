@@ -37,6 +37,21 @@ public class FrmMenu extends JFrame {
 
             }
         });
+        btnConnexion.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (new FrmInscription().estEtudiant()) {
+                    new FrmEtudiant().setVisible(true);
+                } else if (new FrmInscription().estProfesseur()) {
+                    new FrmProfesseur().setVisible(true);
+                }
+                else{
+                    JOptionPane.showMessageDialog(null,"jsp");
+                }
+
+
+            }
+        });
     }
 
 }
