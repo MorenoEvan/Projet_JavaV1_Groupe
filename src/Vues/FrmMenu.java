@@ -21,7 +21,7 @@ public class FrmMenu extends JFrame {
 
     public FrmMenu()
     {
-        this.setTitle("V1");
+        this.setTitle("Connexion");
         this.setContentPane(pnlRoot);
         this.setPreferredSize(new Dimension(1100,600));
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
