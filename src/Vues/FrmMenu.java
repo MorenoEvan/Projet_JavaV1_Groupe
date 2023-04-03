@@ -9,8 +9,8 @@ public class FrmMenu extends JFrame {
     private JPanel pnlRoot;
 
     private ImageIcon imgOrt;
-    private JTextField textField1;
-    private JPasswordField passwordField1;
+    private JTextField txtNom;
+    private JPasswordField lblMotDePasse;
     private JLabel lblCo;
     private JButton btnConnexion;
     private JButton btnInscription;
@@ -18,6 +18,13 @@ public class FrmMenu extends JFrame {
     private JLabel lblMdp;
     private JLabel lblNomu;
     private JLabel lblLogo;
+    private JLabel lblInfo;
+    private JLabel lblMention;
+    private JLabel lblInfoMdp;
+    private JLabel lblContact;
+    private JLabel lblTel;
+    private JLabel lblMail;
+
 
     public FrmMenu()
     {
