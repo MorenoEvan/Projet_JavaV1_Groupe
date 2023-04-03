@@ -93,7 +93,7 @@
         <properties>
           <font size="20"/>
           <foreground color="-13281605"/>
-          <text value="Mot de passe"/>
+          <text value="Mot de passe école directe"/>
         </properties>
       </component>
       <component id="9e6f0" class="javax.swing.JLabel" binding="lblNomu">
@@ -103,7 +103,7 @@
         <properties>
           <font size="20"/>
           <foreground color="-13281605"/>
-          <text value="Nom d'utilisateur"/>
+          <text value="Nom d'utilisateur école directe"/>
         </properties>
       </component>
       <component id="2ef44" class="javax.swing.JLabel" binding="lblLogo">

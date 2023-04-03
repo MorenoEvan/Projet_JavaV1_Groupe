@@ -30,7 +30,6 @@ public class FrmMenu extends JFrame {
         btnInscription.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                //TODO : Ajouter commande pour ouvrir un nouveau formulaire et fermer l'accueil
                 FrmInscription frmI = new FrmInscription();
                 frmI.setVisible(true);
                 dispose();
